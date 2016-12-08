@@ -6,3 +6,7 @@
   height: 600px;
   margin-top: 20px;
 }
+
+.icon {
+  max-resolution: 10px;
+}
